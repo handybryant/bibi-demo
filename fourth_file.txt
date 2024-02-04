@@ -1,1 +1,2 @@
-this is my fourth file, first added in dev
+removing the edit in fourth file, to create conflict
+
