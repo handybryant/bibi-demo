@@ -1,1 +1,8 @@
 adding new line in dev, but not exist in main
+
+removing the edit in fourth file, to create conflict
+
+
+new edit to keep chagnes from both main and dev
+
+

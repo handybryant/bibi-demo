@@ -2,4 +2,4 @@ this is my first file
 adding first edit
 
 
-adding my second line of edit
+removing my last line of edit, so that it creates conflict
